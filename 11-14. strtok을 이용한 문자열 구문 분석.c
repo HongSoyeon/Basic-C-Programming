@@ -40,3 +40,16 @@ int main(void)
 	printf("\nEnd of tokens\n");
 	return 0;
 }	//main
+
+
+
+/*
+Result:
+Token  1 contains sum
+Token  2 contains =
+Token  3 contains sum
+Token  4 contains +
+Token  5 contains 10
+
+End of tokens
+*/
